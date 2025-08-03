@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @mariemh25
-- 🌱 I’m currently learning datascience and AI
-- 📫 How to reach me:
+-  Hi, I’m @mariemh25
+-  How to reach me:
 - linkedin:[mariem-helmy-b38506323](http://www.linkedin.com/in/mariem-helmy-b38506323)
 - gmail:mariemh636@gmail.com
 
